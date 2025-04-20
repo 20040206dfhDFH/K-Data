@@ -1,5 +1,5 @@
 # About
-Machine learning
-Deep learning-cv nlp
-Competition
-Application
+Machine learning  
+Deep learning-cv nlp  
+Competition  
+Application  
